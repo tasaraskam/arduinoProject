@@ -1,2 +1,2 @@
 # arduinoProject
-![alt text](https://prnt.sc/h3neno.png)
+![alt text](https://prnt.sc/h3neno/arduino.png)
