@@ -48,7 +48,7 @@ int Blue = 9;
 int Green = 10;
 int Red = 11;
 
-![alt text](https://imgur.com/a/vEoHo.png)
+![alt text](https://imgur.com/rONf7Kx.png)
 
 Συναγερμός πυρκαγιάς
 1. Σύντομη περιγραφή
@@ -84,4 +84,4 @@ int Red = 11;
 εφαρμογής, μπορείτε να βλέπετε σε πραγματικό χρόνο τις μεταβολές των τιμών του αισθητήρα
 από τη σειριακή οθόνη.
 
-![alt text](https://imgur.com/a/ev5Iw.png)
+![alt text](https://imgur.com/ED5wb9l.png)
